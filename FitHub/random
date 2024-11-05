@@ -1,0 +1,16 @@
+@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Fitness Studio Website Template";
+}
+<div class="homepage">
+    <header>
+        <nav>
+            <!-- Add your navigation items here -->
+        </nav>
+    </header>
+    <main class="hero-content">
+        <h1>FitHub</h1>
+        <h2>Where Fitness<br>Becomes Your<br>Lifestyle</h2>
+    </main>
+</div>
